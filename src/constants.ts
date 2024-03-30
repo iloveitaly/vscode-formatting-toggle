@@ -9,6 +9,7 @@ export const DEFAULT_AFFECTS_CONFIGURATION = [
   'editor.formatOnPaste',
   'editor.formatOnSave',
   'editor.formatOnType',
+  "files.trimTrailingWhitespace",
 ]
 
 // This should be kept in sync with the default specified in the `package.json`
